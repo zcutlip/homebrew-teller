@@ -1,6 +1,5 @@
 class Googerteller < Formula
-  sha256 :no_check
-  
+
   desc "googerteller"
   homepage "https://github.com/berthubert/googerteller"
   head "https://github.com/berthubert/googerteller.git", branch: "main"
